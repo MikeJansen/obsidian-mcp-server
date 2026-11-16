@@ -1,0 +1,14 @@
+# Project index entry, read by `projects` and `issues` (MikeJansen/projects).
+
+name = "obsidian-mcp-server"
+aliases = []
+description = "Obsidian Knowledge-Management MCP (Model Context Protocol) server that enables AI agents and development tools to interact with an Obsidian vault. It provides a comprehensive suite of tools for reading, writing, searching, and managing notes, tags, and frontmatter, acting as a bridge to the Obsidian Local REST API plugin."
+# repo = "owner/name"   # detected from the origin remote
+
+[commands]
+# The one standard way to run ALL tests, from the project folder.
+# test = ""   # not set yet: this project has no tests
+build = "npm run build"
+
+[process]
+# lifecycle = true   # default: true when docs/process.md exists
