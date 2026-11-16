@@ -170,3 +170,4 @@ mcp-config.json
 docs/api/
 
 logs/
+.worktrees/
